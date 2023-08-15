@@ -1,3 +1,4 @@
+baseURL = 'https://ailmSeeker.github.io/blog/'
 languageCode = 'en-us'
 title = 'Mohamed Yusuf'
 theme = "PaperMod"

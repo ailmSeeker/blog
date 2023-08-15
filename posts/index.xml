@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Mohamed Yusuf</title>
+    <link>https://ailmSeeker.github.io/blog/posts/</link>
+    <description>Recent content in Posts on Mohamed Yusuf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Aug 2023 11:44:07 +0300</lastBuildDate><atom:link href="https://ailmSeeker.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://ailmSeeker.github.io/blog/posts/my-first-post/</link>
+      <pubDate>Tue, 15 Aug 2023 11:44:07 +0300</pubDate>
+      
+      <guid>https://ailmSeeker.github.io/blog/posts/my-first-post/</guid>
+      <description>Markdown Here Visit the website. Get it for Chrome. Get it for Firefox. Get it for Safari. Get it for Thunderbird and Postbox. Get it for Opera. Discuss it and ask questions in the Google Group.
+Markdown Here is a Google Chrome, Firefox, Safari, Opera, and Thunderbird extension that lets you write email† in Markdown‡ and render them before sending. It also supports syntax highlighting (just specify the language in a fenced code block).</description>
+    </item>
+    
+  </channel>
+</rss>

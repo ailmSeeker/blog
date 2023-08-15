@@ -1,0 +1,12 @@
+languageCode = 'en-us'
+title = 'Mohamed Yusuf'
+theme = "PaperMod"
+sectionPagesMenu = 'main'
+
+[[menu.main]]
+    name = "Socionics"
+    weight = 50
+    url = "/socionics"
+
+
+
